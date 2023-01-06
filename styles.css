@@ -5,6 +5,7 @@
     border-radius:5px;
 }
 #btn:hover{
+	color:black;
     background:yellow;
     border-radius:30px;
 }
